@@ -1,6 +1,44 @@
-#ga{
-    background: green;
+.maine{
+    box-shadow: 1px 1px 10px silver;
     width: 40%;
-    border: 5px 5px 5px 5px;
-    box-shadow: inset;
+    margin-top: 45px;
+    padding: 10px;
+}
+h2{
+    font-family: "Cabin", sans-serif;
+}
+input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    font-family: "Cabin", sans-serif;
+    font-size: 15px;
+    width: 58%;
+    font-weight: bold;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: aqua;
+    font-family: "Cabin", sans-serif;
+}
+button{
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    width: 42%;
+    font-size: 15px;
+    background-color: blue;
+    font-family: "Cabin", sans-serif;
+    cursor: pointer;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: tomato;
+    font-family: "Cabin", sans-serif;
+    font-weight: bold;
 }
